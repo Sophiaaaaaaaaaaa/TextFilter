@@ -1,5 +1,2 @@
-"# Chemical-thermodynamics" 
-# Test
-# Test
-# -
-# TextFilter
+
+这个栏目涉及到一些可以减少文本处理时重复性工作的代码
